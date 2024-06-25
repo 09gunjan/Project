@@ -1,0 +1,36 @@
+﻿@font-face {
+  font-family: Roboto;
+  src: url(assets/font/RobotoSlab-Black.ttf);
+}
+.form-select:focus {
+  box-shadow: none!important;
+  border-color:#FF3780!important;
+}    
+.form-control:focus {
+  box-shadow: none!important;
+  border-color:#FF3780!important; 
+}
+
+.form-select{
+  
+}    
+.form-control{
+  
+}
+li a {
+    color:#F9E8EF!important;
+}
+h4 {
+    padding-top:5px;
+    font-family:Roboto;
+    font-size:22px;
+    padding-bottom:10px;
+    text-align:center;
+}
+.navbar-brand {
+    color:#FFB6CF;
+}
+.dash {
+    color: #FF3780!important;
+    font-size:18px;
+}
